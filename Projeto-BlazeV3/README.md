@@ -6,6 +6,6 @@ Ao qual possui mais de 100 Exercícios e desafios práticos, infelizmente meu HD
 Tendo isso em vista, os objetivos principais deste projeto foram:<br>
 <p>  . Lógica de Programação: Cada um possui sua própria forma de resolver problemas, e com esse projeto foi possível obeservar que ainda tenho facilidade na resolução de problemas.</p>
 <p>  . Sintaxe: Possuindo a lógica de programação é possível programar em qualquer linguagem, então, esse projeto serviu para lembrar de alguns comandos que tinha esquecido.</p>
-<p>  . Bibliotecas: Python é conhecido pela facilidade de se programar, isso se deve ao fato das diversas bibliotecas que ele possui. E neste projeto foi possível utilzar diversas bibliotecas, sendo possível ver na parte de importações.</p>
+<p>   . Bibliotecas: Python é conhecido pela facilidade de se programar, isso se deve ao fato das diversas bibliotecas que ele possui. E neste projeto foi possível utilzar diversas bibliotecas, sendo possível ver na parte de importações.</p>
 <p>  . Automação: Neste projeto eu integrei o python com o telegram de forma totalmente automática, isso só foi possível depois de bastante tempo de estudo em como funciona os bots do telegram e como integrar com a linguagem Python. E esse aprendizado serviu para o projeto mais recente, um enigma. Que será postado em breve.</p>
 <p>   . Segurança: Utilizei um arquivo .json para colocar dados mais sensíveis, aumentando assim a segurança do projeto.</p>
