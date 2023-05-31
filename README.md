@@ -1,2 +1,2 @@
 # Projetos-Python
- Exercícios e Prjetos feitos em Python
+ Exercícios e Projetos pessoais feitos com a linguagem de programação Python
