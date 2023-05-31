@@ -1,4 +1,4 @@
-#Projeto-BlazeV3
+# Projeto-BlazeV3
 Este é um projeto pessoal feito interamente em Python.
 Postei a versão 3 do projeto, pois é a mais estável.
 Fiz o Mundo 1 e o Mundo 2, do curso de Python ofertado pelo https://www.cursoemvideo.com/. 
