@@ -3,8 +3,8 @@ Este é um projeto pessoal feito interamente em Python. <br>
 Postei a versão 3 do projeto, pois é a mais estável.<br>
 Fiz o Mundo 1 e o Mundo 2, do curso de Python ofertado pelo https://www.cursoemvideo.com/. <br>
 Ao qual possui mais de 100 Exercícios e desafios práticos, infelizmente meu HD queimou, e perdi todos eles.<br>
-<pre>
 Tendo isso em vista, os objetivos principais deste projeto foram:<br>
+<pre>
   . Lógica de Programação: Cada um possui sua própria forma de resolver problemas, e com esse projeto foi possível obeservar que ainda tenho facilidade na resolução de problemas<br>
   . Sintaxe: Possuindo a lógica de programação é possível programar em qualquer linguagem, então, esse projeto serviu para lembrar de alguns comandos que tinha esquecido.<br>
   . Bibliotecas: Python é conhecido pela facilidade de se programar, isso se deve ao fato das diversas bibliotecas que ele possui. 
